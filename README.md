@@ -29,4 +29,4 @@ Fashion App is an Android-based online clothing store that allows users to brows
 - Java JDK configured  
 - Clone this repo using:  
   ```sh
-  git clone https://github.com/yourusername/Fashion-App.git
+  https://github.com/raveenpitawala/Mobi_Project_01_RN_Faction_APP.git
