@@ -20,9 +20,9 @@ Fashion App is an Android-based online clothing store that allows users to brows
 - **Wishlist Feature** – Save favorite items for later  
 - **Push Notifications** – Alerts for new arrivals and offers  
 
-## 📸 Screenshots  
-*(Add screenshots of your app here once available!)*  
-
+## 📸 Screenshots
+<img src="Screenshots/load screen.jpeg" alt="App Screenshot" width="150"> <img src="Screenshots/main catogary.jpeg" alt="App Screenshot" width="150">
+<img src="Screenshots/men section.jpeg" alt="App Screenshot" width="150"> <img src="Screenshots/men shoes section.jpeg" alt="App Screenshot" width="150">
 ## 🔗 Getting Started  
 ### Prerequisites  
 - Android Studio installed  
