@@ -1,0 +1,61 @@
+name,category,subCategory,imagePath,price,availableColors,stockCount
+Black Frok,Women,Casual,images/womCasImg1.png,5000.0	,Red/Blue/Black,10
+Blue Top,Women,Casual,images/womCasImg2.png,2500.0,Blue/White,5
+White Swetter,Women,Casual,images/womCasImg3.png,3000.0,White,7
+Black Skiny,Women,Casual,images/womCasImg4.png,2000.0,Black/White,15
+CroK Top,Women,Casual,images/womCasImg5.png,1500.0,Red/Blue/#FFD900FF,8
+Pink Blacers,Women,Formal,images/womFamImg1.png,9000.0,Red/#FFD900FF,4
+Black Blacers,Women,Formal,images/womFamImg2.png,8000.0,Black/Red,12
+Brown Blacers,Women,Formal,images/womFamImg3.png,10000.0,White/#FFC58C62,9
+Pink Blacers,Women,Formal,images/womFamImg4.png,6000.0,White/#FFEEC3D6,20
+Full Kit,Women,Formal,images/womFamImg5.png,12000.0,White/#FF494949,5
+Dark Blue Frok,Women,Party,images/womParImg1.png,4000.0,Blue/Red/#FFFFA200,3
+Light Blue Frok,Women,Party,images/womParImg2.png,5000.0,Blue/White,5
+Pink Flok,Women,Party,images/womParImg3.png,4500.0,Blue/#FFFF00FB,3
+Gold Long Party Frok,Women,Party,images/womParImg4.png,6000.0,Blue/Red,7
+Gold Party Frok,Women,Party,images/womParImg5.png,8000.0,White/Red/#FFFFA200,2
+Blue Patton Shirt,Men,Casual,images/menCasImg1.png,2000.0,Red/#FFA4C1E0,12
+Plane Blue Shirt,Men,Casual,images/menCasImg2.png,3000.0,White/#FFB9C7DD,15
+blue Swetter,Men,Casual,images/menCasImg3.png,2500.0,Red/#FFB9C7DD/#FF1F4590,11
+Black Swetter,Men,Casual,images/menCasImg4.png,2500.0,Red/#FF2F2F2F/#FF002052,20
+Denim jacket,Men,Casual,images/menCasImg5.png,5000.0,Black/#FF002052/#FF000C1F,5
+volybol shorts,Men,Sports,images/menSptImg1.png,1000.0,Black/#FF2C376B/#FFEA3044/#FFFECC19,20
+bottem,Men,Sports,images/menSptImg2.png,1300.0,Black/#FFAE0018/#FF344170/#FFFEC814,12
+rugby shorts,Men,Sports,images/menSptImg3.png,800.0,Red/#FF0061C6/#FFFD7A2C/#FF96B84D,13
+cyclin shorts,Men,Sports,images/menSptImg4.png,2000.0,Black/#FF87B228/#FFC91C3A,13
+cyclin shirts,Men,Sports,images/menSptImg5.png,3000.0,Red/#FFA0C944/#FFFA762F/#FF0057BC,10
+footBoll shirts,Men,Sports,images/menSptImg6.png,2000.0,Black/#FFFEC814/#FFC3073F/#FF7A1742,13
+footBoll shirts,Men,Sports,images/menSptImg7.png,2500.0,Red/#FF29345E/#FFFAD834/#FFCFC0C0,12
+cyclin shirts,Men,Sports,images/menSptImg8.png,3000.0,Red/#FF005CBB/#FFE53446/#FFDE5258,14
+nike Shoes,Men,Shoes,images/menShoImg1.png,30000.0,Red/#FF0061C6/#FFFD7A2C/#FF96B84D,13
+adidas Shoes,Men,Shoes,images/menShoImg2.png,25000.0,Red/#FF29345E/#FFFAD834/#FFCFC0C0,12
+yoo Shoes,Men,Shoes,images/menShoImg3.png,35000.0,Black/#FFAE0018/#FF344170/#FFFEC814,12
+yet Shoes,Men,Shoes,images/menShoImg4.png,18000.0,Black/#FFFEC814/#FFC3073F/#FF7A1742,13
+umore Shoes,Men,Shoes,images/menShoImg5.png,23000.0,Black/#FF2C376B/#FFEA3044/#FFFECC19,20
+pevole Shoes,Men,Shoes,images/menShoImg6.png,21000.0,Red/#FF005CBB/#FFE53446/#FFDE5258,14
+nove Shoes,Men,Shoes,images/menShoImg7.png,16000.0,Black/#FFFEC814/#FFC3073F/#FF7A1742,13
+nike Shoes,Men,Shoes,images/menShoImg8.png,30000.0,Red/#FF0061C6/#FFFD7A2C/#FF96B84D,13
+adidas Shoes,Men,Shoes,images/menShoImg9.png,25000.0,Red/#FF29345E/#FFFAD834/#FFCFC0C0,12
+yoo Shoes,Men,Shoes,images/menShoImg10.png,35000.0,Black/#FFAE0018/#FF344170/#FFFEC814,12
+yet Shoes,Men,Shoes,images/menShoImg11.png,18000.0,Black/#FFFEC814/#FFC3073F/#FF7A1742,13
+umore Shoes,Men,Shoes,images/menShoImg12.png,23000.0,Black/#FF2C376B/#FFEA3044/#FFFECC19,20
+pevole Shoes,Men,Shoes,images/menShoImg13.png,21000.0,Red/#FF005CBB/#FFE53446/#FFDE5258,14
+nove Shoes,Men,Shoes,images/menShoImg14.png,16000.0,Black/#FFFEC814/#FFC3073F/#FF7A1742,13
+diary Of wimpy kid,Kids,Books,images/kidsbook1.png,2000.0,Black,20
+Old Book,Kids,Books,images/kidsbook2.png,2300.0,Black,20
+Old black book,Kids,Books,images/kidsbook3.png,1900.0,Black,20
+brown Bag,Kids,Bags,images/kidsbag1.png,3900.0,Black,20
+Perple Bag,Kids,Bags,images/kidsbag2.png,2900.0,Black,20
+black Bag,Kids,Bags,images/kidsbag3.png,4900.0,Black,20
+bark blue,Kids,Watch,images/kidswatch1.png,6900.0,Black,5
+black Watch,Kids,Watch,images/kidswatch2.png,5900.0,Black,6
+Silver Watch,Kids,Watch,images/kidswatch3.png,7900.0,Black,3
+
+
+
+
+
+
+
+
+
